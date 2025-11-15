@@ -15,7 +15,7 @@ public class Main {
 
         System.out.println("Conflicts Resolved");
 
-        System.out.println("DineshBranch revoke commit");
+        System.out.println("DineshBranch revoke commit123");
 
     }
 }
