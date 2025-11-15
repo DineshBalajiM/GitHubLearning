@@ -19,5 +19,8 @@ public class Main {
 
         System.out.println("rebase commit from dinesh branch");
 
+        System.out.println("commit 1 after rebase");
+
+
     }
 }
