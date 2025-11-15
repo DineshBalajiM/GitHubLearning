@@ -9,5 +9,8 @@ public class Main {
 
         //second commit
         System.out.printf("This is the second commit!");
+
+        //Code from Dinesh Branch
+        System.out.println("This is third commit from Dinesh's branch");
     }
 }
