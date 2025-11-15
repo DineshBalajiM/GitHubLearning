@@ -17,5 +17,7 @@ public class Main {
 
         System.out.println("DineshBranch revoke commit last");
 
+        System.out.println("rebase commit from dinesh branch");
+
     }
 }
