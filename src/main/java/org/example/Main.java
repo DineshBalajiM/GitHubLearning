@@ -13,6 +13,7 @@ public class Main {
         //Code from Dinesh Branch
         System.out.println("This is third commit from Dinesh's branch");
 
-        System.out.println("I am from bathri branch");
+        System.out.println("Conflicts Resolved");
+
     }
 }
